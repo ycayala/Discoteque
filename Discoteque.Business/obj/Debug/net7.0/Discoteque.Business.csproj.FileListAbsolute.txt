@@ -10,3 +10,6 @@
 /Users/macos/Proyectos/Discoteque/Discoteque.Business/obj/Debug/net7.0/refint/Discoteque.Business.dll
 /Users/macos/Proyectos/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.pdb
 /Users/macos/Proyectos/Discoteque/Discoteque.Business/obj/Debug/net7.0/ref/Discoteque.Business.dll
+/Users/macos/Proyectos/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Data.dll
+/Users/macos/Proyectos/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Data.pdb
+/Users/macos/Proyectos/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.csproj.CopyComplete

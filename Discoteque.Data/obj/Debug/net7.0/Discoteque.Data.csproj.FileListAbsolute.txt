@@ -10,3 +10,5 @@
 /Users/macos/Proyectos/Discoteque/Discoteque.Data/obj/Debug/net7.0/refint/Discoteque.Data.dll
 /Users/macos/Proyectos/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.pdb
 /Users/macos/Proyectos/Discoteque/Discoteque.Data/obj/Debug/net7.0/ref/Discoteque.Data.dll
+/Users/macos/Proyectos/Discoteque/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.runtimeconfig.json
+/Users/macos/Proyectos/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.genruntimeconfig.cache
